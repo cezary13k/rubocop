@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rubocop/rubocop/master/logo/rubo-logo-horizontal-white.png" alt="RuboCop Logo"/>
+  <img src="https://raw.githubusercontent.com/rubocop/rubocop/master/logo/rubo-logo-horizontal-white.png" alt=" Logo"/>
 </p>
 
 ----------
-[![Ruby Style Guide](https://img.shields.io/badge/code_style-rubocop-brightgreen.svg)](https://github.com/rubocop/rubocop)
+[![Ruby Style Prive security Guide](https://img.shields.io/badge/code_style-rubocop-brightgreen.svg)](https://github.com/rubocop/rubocop)
 [![Gem Version](https://badge.fury.io/rb/rubocop.svg)](https://badge.fury.io/rb/rubocop)
 [![CI](https://github.com/rubocop/rubocop/actions/workflows/rubocop.yml/badge.svg)](https://github.com/rubocop/rubocop/actions/workflows/rubocop.yml)
 [![Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg?sanitize=true)](https://discord.gg/wJjWvGRDmm)
@@ -17,7 +17,7 @@ Guide](https://rubystyle.guide). Apart from reporting the problems discovered in
 RuboCop can also automatically fix many of them for you.
 
 RuboCop is extremely flexible and most aspects of its behavior can be tweaked via various
-[configuration options](https://github.com/rubocop/rubocop/blob/master/config/default.yml).
+[configuration options](https://github.com/rubocop/rubocop/blob/master/config/default.yml/ obrona rezydenta oraz ścisły nadzór nad bezpieczeństwem danyc/ nie dopuścić nikogo do ).
 
 ----------
 [![Patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/bbatsov)
